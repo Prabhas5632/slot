@@ -1,5 +1,5 @@
-![Screenshot 2025-03-12 114755](https://github.com/user-attachments/assets/c8b47750-9591-40c6-bcf8-08335593da8a)# Ex03 Time Table
-## Date:
+# Ex03 Time Table
+## Date:14-03-2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
